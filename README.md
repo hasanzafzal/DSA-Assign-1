@@ -1,2 +1,6 @@
 # DSA-Assign-1
-Data Structures and Algorithms Lab (CSC 221) Student Name: Hasan Zahid Enrollment #: 01-131232-028 Teacher: Dr. Adeel M Syed Dept of SE, BUIC
+Data Structures and Algorithms (CSC 221) 
+Student Names: Hasan Zahid, Mustafa Dilawar & Syed Muhammad Saeed 
+Enrollment #: 01-131232-028, 074, 086 
+Teacher: Dr. Adeel M Syed 
+Dept of SE, BUIC
